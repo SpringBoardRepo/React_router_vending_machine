@@ -1,0 +1,25 @@
+.msg {
+  text-align: left;
+  margin-top: 200px;
+  box-sizing: content-box;
+  margin-left: 20px;
+  width: 300px;
+  border: 2px solid rgb(102, 133, 127);
+  padding: 50px;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.VendingMachine {
+  background-size: cover;
+}
+.Links {
+  box-sizing: content-box;
+  text-align: right;
+  margin-right: 50px;
+  padding: 50px;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  margin-bottom: 300px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
